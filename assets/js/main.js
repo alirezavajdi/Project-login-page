@@ -22,6 +22,6 @@ function signIn(event) {
   }
 
   if (usernameValue == "admin" && passwordValue == "admin" ) {
-    window.location.href = 'file:///C:/Users/Asus/Desktop/task_1_javascript/shoping.html'
+    window.location.href = 'http://127.0.0.1:5500/shoping.html'
   }
 }
